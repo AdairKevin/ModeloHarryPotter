@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:wght@400;600&display=swap");
+/* Paleta Harry Potter: vino Gryffindor, dorado y pergamino. Edita aquí colores y tipografías */
+:root {
+  --color-primary: #740001;
+  --color-secondary: #2a1a12;
+  --color-accent: #d3a625;
+  --color-bg: #f3e7c9;
+  --color-card: #fbf3df;
+  --color-text: #2a1a12;
+  --font-title: "Cinzel Decorative", serif;
+  --font-text: "Cormorant Garamond", serif;
+}
